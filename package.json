@@ -1,0 +1,22 @@
+{
+  "name": "restaurant-reservation-app",
+  "version": "1.0.0",
+  "description": "restaurant-reservation-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonstevens13/restaurant-reservation-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonstevens13/restaurant-reservation-app/issues"
+  },
+  "homepage": "https://github.com/jasonstevens13/restaurant-reservation-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
